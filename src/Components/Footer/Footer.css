@@ -1,0 +1,5 @@
+.Footer {
+	/* background-color: lightseagreen; */
+    color: white;
+    grid-area: 10 / 1 / 11 / 11;
+}
