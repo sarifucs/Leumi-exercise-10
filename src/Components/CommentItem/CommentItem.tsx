@@ -14,8 +14,6 @@ function CommentItem(props: CommentItemProps): JSX.Element {
                 <p className="text-2xl mb-3.5 text-yellow-900">{props.comment.name}</p>
                 <p className="mb-3.5">{props.comment.body}</p>
                 <p className="text-yellow-900 text-xl">{props.comment.email}</p>
-                {/* <p id="name">John Doe</p>
-                <p id="exp">Web Developer @ Slackhouse.io</p> */}
             </div>
         </div>
     );
